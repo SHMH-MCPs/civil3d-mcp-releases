@@ -8,7 +8,7 @@ Civil 3D plug-in that only programs of your own Windows account can reach, and t
 without Civil 3D.
 
 **Download:** [the latest release](https://github.com/SHMH-MCPs/civil3d-mcp-releases/releases/latest) — run
-`Install-AUTOCAD-MCP.cmd` from it (no administrator rights needed). Then start Civil 3D; if it asks
+`Install-CIVIL3D-MCP.cmd` from it (no administrator rights needed). Then start Civil 3D; if it asks
 "Security - Unsigned Executable File" about Civil3DMcp.dll, choose Always Load.
 
 ## What it does
