@@ -7,7 +7,9 @@ Gemini, Codex and other AI assistants use it to read and work with the drawings 
 Civil 3D plug-in that only programs of your own Windows account can reach, and to read, check, compare and write DXF files
 without Civil 3D.
 
-**Download:** [the latest release](https://github.com/SHMH-MCPs/civil3d-mcp-releases/releases/latest) — run
+**Status: no release is available yet, and Civil 3D MCP has not been tested in a real Civil 3D.** Reading Civil objects is implemented; creating or editing them is not.
+
+**Download (once released):** [the latest release](https://github.com/SHMH-MCPs/civil3d-mcp-releases/releases/latest) — run
 `Install-CIVIL3D-MCP.cmd` from it (no administrator rights needed). Then start Civil 3D; if it asks
 "Security - Unsigned Executable File" about Civil3DMcp.dll, choose Always Load.
 
